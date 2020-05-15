@@ -1,4 +1,4 @@
-package io.xiaowei.controller;
+package io.xiaowei.core.controller;
 
 import io.xiaowei.feign.HelloFeignApi;
 import org.springframework.web.bind.annotation.GetMapping;
